@@ -1,0 +1,33 @@
+{
+  "name": "miter-grove",
+  "description": "Internal catalog adapters for personal use.",
+  "sources": [
+    {
+      "id": "mg-alpha",
+      "name": "Shelf Alpha",
+      "version": "2.2.0",
+      "type": "movie",
+      "lang": "en",
+      "file": "alpha.js",
+      "nsfw": true
+    },
+    {
+      "id": "mg-beta",
+      "name": "Shelf Beta",
+      "version": "1.2.0",
+      "type": "movie",
+      "lang": "en",
+      "file": "beta.js",
+      "nsfw": true
+    },
+    {
+      "id": "mg-gamma",
+      "name": "Shelf Gamma",
+      "version": "1.2.0",
+      "type": "movie",
+      "lang": "en",
+      "file": "gamma.js",
+      "nsfw": true
+    }
+  ]
+}
